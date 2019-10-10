@@ -1,3 +1,5 @@
 def hello():
     print('bonjour');
-    return
+    return;
+
+hello()
