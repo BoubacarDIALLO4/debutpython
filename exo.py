@@ -3,3 +3,6 @@ def hello():
     return;
 
 hello()
+#### Une nouvelle fonction
+def carre(x):
+    return x*x;
